@@ -10,6 +10,19 @@
       </list>
     </option>
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/ItemsMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/ItemsMapperCustom.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/OrderdetailMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/OrdersMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/SysPermissionMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/SysPermissionMapperCustom.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/SysRoleMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/SysRolePermissionMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/SysUserMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/SysUserRoleMapper.xml" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/example/mapper/UserMapper.xml" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
